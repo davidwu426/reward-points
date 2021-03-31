@@ -1,0 +1,23 @@
+.userContainer{
+    text-align: center;
+    display: flex;
+}
+
+.userContainer h1{
+    width: 50%;
+}
+
+.userContainer .spendInfoContainer{
+    width: 50%;
+}
+
+.spendInfoContainer{
+    text-align: left;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.spendInfoContainer div{
+    padding: 5px;
+}
